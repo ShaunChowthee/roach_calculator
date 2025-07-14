@@ -1,5 +1,7 @@
 Roach Deck Calculator - Desktop App
 
+Initially shared on r/Shadowverse by Tyranael300.
+
 Windows might stop you from running this .exe file, click on "information" and "Execute".
 
 How to run:
